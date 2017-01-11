@@ -1,0 +1,22 @@
+{
+  "name": "day3-home-self-learning",
+  "version": "1.0.0",
+  "description": "Binary search lab, missing number lab and a simple user interface with html and css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomipaul/day-3.git"
+  },
+  "author": "Oluwatomi Akande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomipaul/day-3/issues"
+  },
+  "homepage": "https://github.com/tomipaul/day-3#readme",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
