@@ -38,9 +38,11 @@ Array.prototype.search = function(num) {
 		}
 		else if (this[midPoint] > num) {
 			endIndex = midPoint-1;
+			startIndex+=1;
 		}
 		else {
 			startIndex = midPoint+1;
+			endIndex-=1;
 		}
 		count+=1;
 	}
